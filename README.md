@@ -1,4 +1,4 @@
-# Biginners Typescript Practice files.
+# Beginners Typescript Practice files.
 TypeScript practice files for beginners.
 
 ## Install Typescript
